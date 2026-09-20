@@ -1,0 +1,32 @@
+product_id,product_name,category,unit_price,unit_cost,margin_percentage
+101,Pro Noise-Cancelling Headphones,Electronics,199.99,85.0,57.5
+102,Ultra Ergonomic Wireless Mouse,Electronics,49.99,18.0,63.99
+103,Mechanical Gaming Keyboard,Electronics,89.99,36.0,60.0
+104,4K Ultra-HD Monitor 27-inch,Electronics,349.99,175.0,50.0
+105,USB-C Multi-Port Hub Adapter,Electronics,39.99,12.0,69.99
+106,Smart Fitness Watch Gen 4,Electronics,179.99,70.0,61.11
+107,Portable Bluetooth Speaker Waterproof,Electronics,59.99,22.0,63.33
+108,High-Speed MagSafe Wireless Charger,Electronics,29.99,9.5,68.32
+201,Classic Organic Cotton Crewneck T-Shirt,Apparel,28.0,8.5,69.64
+202,Slim Fit Stretch Denim Jeans,Apparel,68.0,22.0,67.65
+203,Water-Resistant Commuter Jacket,Apparel,120.0,42.0,65.0
+204,Thermal Merino Wool Socks (3-Pack),Apparel,24.0,6.0,75.0
+205,Breathable Athletic Jogger Pants,Apparel,54.0,16.0,70.37
+206,All-Weather Polarized Sunglasses,Apparel,45.0,11.0,75.56
+301,Precision Barista Espresso Machine,Home & Kitchen,289.0,130.0,55.02
+302,Ceramic Burr Coffee Bean Grinder,Home & Kitchen,45.0,15.0,66.67
+303,Artisan Whole Bean Roast Coffee (2lb),Home & Kitchen,24.99,7.5,69.99
+304,Cast Iron Pre-Seasoned Skillet 10in,Home & Kitchen,39.99,14.0,64.99
+305,Stainless Steel Chef Knife 8-inch,Home & Kitchen,59.99,20.0,66.66
+306,Aroma Ultrasonic Essential Oil Diffuser,Home & Kitchen,32.5,10.0,69.23
+307,Insulated Vacuum Water Bottle 32oz,Home & Kitchen,29.99,8.0,73.32
+401,Hydrating Hyaluronic Acid Serum,Health & Beauty,26.0,6.0,76.92
+402,Vitamin C Brightening Facial Moisturizer,Health & Beauty,34.0,8.5,75.0
+403,Mineral SPF 50 Broad Spectrum Sunscreen,Health & Beauty,22.0,5.2,76.36
+404,Sonic Electric Toothbrush + 3 Heads,Health & Beauty,64.99,21.0,67.69
+405,Organic Lavender Sleep Aromatherapy Mist,Health & Beauty,18.0,4.0,77.78
+501,Eco-Friendly High Density Yoga Mat,Sports & Outdoors,42.0,13.0,69.05
+502,Adjustable Resistance Fitness Bands Set,Sports & Outdoors,22.99,5.5,76.08
+503,Collapsible Lightweight Trekking Poles,Sports & Outdoors,48.0,15.0,68.75
+504,Quick-Dry Microfiber Camp Towel,Sports & Outdoors,16.99,4.2,75.28
+505,High-Capacity Hydration Running Vest,Sports & Outdoors,75.0,24.0,68.0

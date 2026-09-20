@@ -1,0 +1,4 @@
+hypothesis,test_type,statistic,p_value,verdict,business_takeaway
+H1: Promotional Discounts lift AOV,Welch's Two-Sample t-test,-1.2176,0.22341290770522765,Not Statistically Significant (p >= 0.05),Discounted orders average $139.86 vs $143.68 (margin changes from 61.2% to 56.0%).
+H2: Channel affects Repeat Rate,Chi-Square Test of Independence,2.5134,0.642245768142147,Not Statistically Significant (p >= 0.05),"Highest repeat rate is Organic Search (43.33%), lowest is Referral (39.96%)."
+H3: Multi-Item First Order boosts LTV,Mann-Whitney U Test (One-Tailed),2276517.5,3.1188890300236716e-66,Statistically Significant (p < 0.05),Customers starting with 2+ items generate $371.31 LTV vs $265.36 (+39.9% lift).
