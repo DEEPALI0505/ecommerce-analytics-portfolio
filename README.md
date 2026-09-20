@@ -1,4 +1,4 @@
-# 🛒 AuraCommerce: End-to-End E-Commerce Business Intelligence & Customer Analytics
+#  AuraCommerce: End-to-End E-Commerce Business Intelligence & Customer Analytics
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-Advanced_Window_Functions-orange.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Executive Summary & Key Results
+## Executive Summary & Key Results
 
 | Core Business Question | Diagnostic Finding | Statistical Validation | Recommended Business Action | Projected ROI |
 | :--- | :--- | :--- | :--- | :--- |
@@ -22,7 +22,7 @@
 
 ---
 
-## 🏗️ Architecture & Project Structure
+##  Architecture & Project Structure
 
 ```
 ecommerce_analytics_portfolio/
@@ -56,7 +56,7 @@ ecommerce_analytics_portfolio/
 
 ---
 
-## 💡 Highlighted SQL Queries
+##  Highlighted SQL Queries
 
 ### 1. Monthly Cohort Retention Heatmap Query
 ```sql
@@ -136,7 +136,7 @@ ORDER BY total_revenue DESC;
 
 ---
 
-## 🔬 Statistical Hypothesis Testing
+##  Statistical Hypothesis Testing
 
 All hypotheses were formally evaluated in Python using `scipy.stats`:
 
@@ -152,7 +152,7 @@ All hypotheses were formally evaluated in Python using `scipy.stats`:
 
 ---
 
-## 🚀 Quickstart & Reproduction Guide
+##  Quickstart & Reproduction Guide
 
 ### 1. Clone & Set Up Environment
 ```bash
@@ -186,11 +186,11 @@ python dashboard/serve_dashboard.py
 
 ---
 
-## 📊 Power BI & Tableau Integration
+##  Power BI & Tableau Integration
 * See the [Power BI & Tableau Blueprint](dashboard/powerbi_tableau_blueprint.md) for full DAX formulas, Star Schema setup, and Tableau Level of Detail (LOD) calculations.
 * Import `data/processed/ecommerce_analytics_master.csv` directly into Power BI or Tableau to recreate all visualizations in under 10 minutes.
 
 ---
 
-## 📄 License
+##  License
 This project is open-source under the [MIT License](LICENSE).
