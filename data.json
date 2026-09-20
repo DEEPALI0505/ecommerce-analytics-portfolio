@@ -1,0 +1,2063 @@
+{
+  "kpis": {
+    "total_gmv": 1227963.53,
+    "total_orders": 8640,
+    "total_customers": 3842,
+    "avg_order_value": 142.13,
+    "total_gross_profit": 725445.15,
+    "gross_margin_pct": 59.1
+  },
+  "repeat_rate": {
+    "repeat_customers": 1651,
+    "total_customers": 3842,
+    "repeat_rate_pct": 43.0
+  },
+  "monthly_trend": [
+    {
+      "month": "2024-01",
+      "revenue": 11325.1,
+      "profit": 6733.92,
+      "orders": 86,
+      "active_customers": 85,
+      "aov": 131.69
+    },
+    {
+      "month": "2024-02",
+      "revenue": 23757.91,
+      "profit": 13982.13,
+      "orders": 163,
+      "active_customers": 160,
+      "aov": 145.75
+    },
+    {
+      "month": "2024-03",
+      "revenue": 27780.85,
+      "profit": 16532.42,
+      "orders": 220,
+      "active_customers": 216,
+      "aov": 126.28
+    },
+    {
+      "month": "2024-04",
+      "revenue": 39968.2,
+      "profit": 23732.79,
+      "orders": 274,
+      "active_customers": 269,
+      "aov": 145.87
+    },
+    {
+      "month": "2024-05",
+      "revenue": 51046.71,
+      "profit": 30068.79,
+      "orders": 339,
+      "active_customers": 325,
+      "aov": 150.58
+    },
+    {
+      "month": "2024-06",
+      "revenue": 43449.66,
+      "profit": 26191.26,
+      "orders": 335,
+      "active_customers": 326,
+      "aov": 129.7
+    },
+    {
+      "month": "2024-07",
+      "revenue": 57644.74,
+      "profit": 33884.28,
+      "orders": 397,
+      "active_customers": 386,
+      "aov": 145.2
+    },
+    {
+      "month": "2024-08",
+      "revenue": 62595.87,
+      "profit": 36944.59,
+      "orders": 433,
+      "active_customers": 409,
+      "aov": 144.56
+    },
+    {
+      "month": "2024-09",
+      "revenue": 50631.86,
+      "profit": 30152.1,
+      "orders": 411,
+      "active_customers": 393,
+      "aov": 123.19
+    },
+    {
+      "month": "2024-10",
+      "revenue": 58180.87,
+      "profit": 34074.89,
+      "orders": 465,
+      "active_customers": 447,
+      "aov": 125.12
+    },
+    {
+      "month": "2024-11",
+      "revenue": 88975.89,
+      "profit": 51373.33,
+      "orders": 451,
+      "active_customers": 439,
+      "aov": 197.29
+    },
+    {
+      "month": "2024-12",
+      "revenue": 88228.31,
+      "profit": 51115.15,
+      "orders": 471,
+      "active_customers": 450,
+      "aov": 187.32
+    },
+    {
+      "month": "2025-01",
+      "revenue": 65863.93,
+      "profit": 39277.42,
+      "orders": 510,
+      "active_customers": 491,
+      "aov": 129.14
+    },
+    {
+      "month": "2025-02",
+      "revenue": 56562.7,
+      "profit": 33555.31,
+      "orders": 452,
+      "active_customers": 437,
+      "aov": 125.14
+    },
+    {
+      "month": "2025-03",
+      "revenue": 67127.84,
+      "profit": 39921.1,
+      "orders": 471,
+      "active_customers": 448,
+      "aov": 142.52
+    },
+    {
+      "month": "2025-04",
+      "revenue": 55336.25,
+      "profit": 33058.98,
+      "orders": 445,
+      "active_customers": 424,
+      "aov": 124.35
+    },
+    {
+      "month": "2025-05",
+      "revenue": 53670.18,
+      "profit": 32302.43,
+      "orders": 425,
+      "active_customers": 409,
+      "aov": 126.28
+    },
+    {
+      "month": "2025-06",
+      "revenue": 54287.59,
+      "profit": 32466.92,
+      "orders": 426,
+      "active_customers": 411,
+      "aov": 127.44
+    },
+    {
+      "month": "2025-07",
+      "revenue": 54497.71,
+      "profit": 31787.96,
+      "orders": 390,
+      "active_customers": 368,
+      "aov": 139.74
+    },
+    {
+      "month": "2025-08",
+      "revenue": 46896.05,
+      "profit": 27907.56,
+      "orders": 369,
+      "active_customers": 351,
+      "aov": 127.09
+    },
+    {
+      "month": "2025-09",
+      "revenue": 44717.62,
+      "profit": 27042.84,
+      "orders": 355,
+      "active_customers": 342,
+      "aov": 125.97
+    },
+    {
+      "month": "2025-10",
+      "revenue": 36555.66,
+      "profit": 22349.16,
+      "orders": 319,
+      "active_customers": 305,
+      "aov": 114.59
+    },
+    {
+      "month": "2025-11",
+      "revenue": 48960.67,
+      "profit": 27818.57,
+      "orders": 236,
+      "active_customers": 222,
+      "aov": 207.46
+    },
+    {
+      "month": "2025-12",
+      "revenue": 39901.36,
+      "profit": 23171.25,
+      "orders": 197,
+      "active_customers": 184,
+      "aov": 202.54
+    }
+  ],
+  "category_performance": [
+    {
+      "category": "Electronics",
+      "total_sales": 570391.82,
+      "category_profit": 328777.32,
+      "units_sold": 4818,
+      "order_appearances": 3297
+    },
+    {
+      "category": "Home & Kitchen",
+      "total_sales": 305707.67,
+      "category_profit": 186236.17,
+      "units_sold": 4166,
+      "order_appearances": 3044
+    },
+    {
+      "category": "Apparel",
+      "total_sales": 187325.0,
+      "category_profit": 129062.5,
+      "units_sold": 3309,
+      "order_appearances": 2542
+    },
+    {
+      "category": "Sports & Outdoors",
+      "total_sales": 117335.14,
+      "category_profit": 82113.64,
+      "units_sold": 2892,
+      "order_appearances": 2196
+    },
+    {
+      "category": "Health & Beauty",
+      "total_sales": 93957.69,
+      "category_profit": 68687.59,
+      "units_sold": 2885,
+      "order_appearances": 2171
+    }
+  ],
+  "cohort_matrix": [
+    {
+      "cohort_month": "2024-01",
+      "cohort_size": 85,
+      "cohort_index": 0,
+      "active_users": 85,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2024-01",
+      "cohort_size": 85,
+      "cohort_index": 1,
+      "active_users": 12,
+      "retention_pct": 14.1
+    },
+    {
+      "cohort_month": "2024-01",
+      "cohort_size": 85,
+      "cohort_index": 2,
+      "active_users": 18,
+      "retention_pct": 21.2
+    },
+    {
+      "cohort_month": "2024-01",
+      "cohort_size": 85,
+      "cohort_index": 3,
+      "active_users": 14,
+      "retention_pct": 16.5
+    },
+    {
+      "cohort_month": "2024-01",
+      "cohort_size": 85,
+      "cohort_index": 4,
+      "active_users": 14,
+      "retention_pct": 16.5
+    },
+    {
+      "cohort_month": "2024-01",
+      "cohort_size": 85,
+      "cohort_index": 5,
+      "active_users": 3,
+      "retention_pct": 3.5
+    },
+    {
+      "cohort_month": "2024-01",
+      "cohort_size": 85,
+      "cohort_index": 6,
+      "active_users": 6,
+      "retention_pct": 7.1
+    },
+    {
+      "cohort_month": "2024-01",
+      "cohort_size": 85,
+      "cohort_index": 7,
+      "active_users": 4,
+      "retention_pct": 4.7
+    },
+    {
+      "cohort_month": "2024-01",
+      "cohort_size": 85,
+      "cohort_index": 8,
+      "active_users": 2,
+      "retention_pct": 2.4
+    },
+    {
+      "cohort_month": "2024-01",
+      "cohort_size": 85,
+      "cohort_index": 9,
+      "active_users": 3,
+      "retention_pct": 3.5
+    },
+    {
+      "cohort_month": "2024-01",
+      "cohort_size": 85,
+      "cohort_index": 10,
+      "active_users": 3,
+      "retention_pct": 3.5
+    },
+    {
+      "cohort_month": "2024-01",
+      "cohort_size": 85,
+      "cohort_index": 11,
+      "active_users": 3,
+      "retention_pct": 3.5
+    },
+    {
+      "cohort_month": "2024-01",
+      "cohort_size": 85,
+      "cohort_index": 12,
+      "active_users": 3,
+      "retention_pct": 3.5
+    },
+    {
+      "cohort_month": "2024-02",
+      "cohort_size": 148,
+      "cohort_index": 0,
+      "active_users": 148,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2024-02",
+      "cohort_size": 148,
+      "cohort_index": 1,
+      "active_users": 28,
+      "retention_pct": 18.9
+    },
+    {
+      "cohort_month": "2024-02",
+      "cohort_size": 148,
+      "cohort_index": 2,
+      "active_users": 27,
+      "retention_pct": 18.2
+    },
+    {
+      "cohort_month": "2024-02",
+      "cohort_size": 148,
+      "cohort_index": 3,
+      "active_users": 29,
+      "retention_pct": 19.6
+    },
+    {
+      "cohort_month": "2024-02",
+      "cohort_size": 148,
+      "cohort_index": 4,
+      "active_users": 21,
+      "retention_pct": 14.2
+    },
+    {
+      "cohort_month": "2024-02",
+      "cohort_size": 148,
+      "cohort_index": 5,
+      "active_users": 14,
+      "retention_pct": 9.5
+    },
+    {
+      "cohort_month": "2024-02",
+      "cohort_size": 148,
+      "cohort_index": 6,
+      "active_users": 15,
+      "retention_pct": 10.1
+    },
+    {
+      "cohort_month": "2024-02",
+      "cohort_size": 148,
+      "cohort_index": 7,
+      "active_users": 13,
+      "retention_pct": 8.8
+    },
+    {
+      "cohort_month": "2024-02",
+      "cohort_size": 148,
+      "cohort_index": 8,
+      "active_users": 12,
+      "retention_pct": 8.1
+    },
+    {
+      "cohort_month": "2024-02",
+      "cohort_size": 148,
+      "cohort_index": 9,
+      "active_users": 4,
+      "retention_pct": 2.7
+    },
+    {
+      "cohort_month": "2024-02",
+      "cohort_size": 148,
+      "cohort_index": 10,
+      "active_users": 6,
+      "retention_pct": 4.1
+    },
+    {
+      "cohort_month": "2024-02",
+      "cohort_size": 148,
+      "cohort_index": 11,
+      "active_users": 3,
+      "retention_pct": 2.0
+    },
+    {
+      "cohort_month": "2024-02",
+      "cohort_size": 148,
+      "cohort_index": 12,
+      "active_users": 3,
+      "retention_pct": 2.0
+    },
+    {
+      "cohort_month": "2024-03",
+      "cohort_size": 170,
+      "cohort_index": 0,
+      "active_users": 170,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2024-03",
+      "cohort_size": 170,
+      "cohort_index": 1,
+      "active_users": 34,
+      "retention_pct": 20.0
+    },
+    {
+      "cohort_month": "2024-03",
+      "cohort_size": 170,
+      "cohort_index": 2,
+      "active_users": 47,
+      "retention_pct": 27.6
+    },
+    {
+      "cohort_month": "2024-03",
+      "cohort_size": 170,
+      "cohort_index": 3,
+      "active_users": 34,
+      "retention_pct": 20.0
+    },
+    {
+      "cohort_month": "2024-03",
+      "cohort_size": 170,
+      "cohort_index": 4,
+      "active_users": 23,
+      "retention_pct": 13.5
+    },
+    {
+      "cohort_month": "2024-03",
+      "cohort_size": 170,
+      "cohort_index": 5,
+      "active_users": 21,
+      "retention_pct": 12.4
+    },
+    {
+      "cohort_month": "2024-03",
+      "cohort_size": 170,
+      "cohort_index": 6,
+      "active_users": 14,
+      "retention_pct": 8.2
+    },
+    {
+      "cohort_month": "2024-03",
+      "cohort_size": 170,
+      "cohort_index": 7,
+      "active_users": 14,
+      "retention_pct": 8.2
+    },
+    {
+      "cohort_month": "2024-03",
+      "cohort_size": 170,
+      "cohort_index": 8,
+      "active_users": 13,
+      "retention_pct": 7.6
+    },
+    {
+      "cohort_month": "2024-03",
+      "cohort_size": 170,
+      "cohort_index": 9,
+      "active_users": 9,
+      "retention_pct": 5.3
+    },
+    {
+      "cohort_month": "2024-03",
+      "cohort_size": 170,
+      "cohort_index": 10,
+      "active_users": 6,
+      "retention_pct": 3.5
+    },
+    {
+      "cohort_month": "2024-03",
+      "cohort_size": 170,
+      "cohort_index": 11,
+      "active_users": 4,
+      "retention_pct": 2.4
+    },
+    {
+      "cohort_month": "2024-03",
+      "cohort_size": 170,
+      "cohort_index": 12,
+      "active_users": 8,
+      "retention_pct": 4.7
+    },
+    {
+      "cohort_month": "2024-04",
+      "cohort_size": 194,
+      "cohort_index": 0,
+      "active_users": 194,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2024-04",
+      "cohort_size": 194,
+      "cohort_index": 1,
+      "active_users": 34,
+      "retention_pct": 17.5
+    },
+    {
+      "cohort_month": "2024-04",
+      "cohort_size": 194,
+      "cohort_index": 2,
+      "active_users": 38,
+      "retention_pct": 19.6
+    },
+    {
+      "cohort_month": "2024-04",
+      "cohort_size": 194,
+      "cohort_index": 3,
+      "active_users": 29,
+      "retention_pct": 14.9
+    },
+    {
+      "cohort_month": "2024-04",
+      "cohort_size": 194,
+      "cohort_index": 4,
+      "active_users": 22,
+      "retention_pct": 11.3
+    },
+    {
+      "cohort_month": "2024-04",
+      "cohort_size": 194,
+      "cohort_index": 5,
+      "active_users": 18,
+      "retention_pct": 9.3
+    },
+    {
+      "cohort_month": "2024-04",
+      "cohort_size": 194,
+      "cohort_index": 6,
+      "active_users": 19,
+      "retention_pct": 9.8
+    },
+    {
+      "cohort_month": "2024-04",
+      "cohort_size": 194,
+      "cohort_index": 7,
+      "active_users": 9,
+      "retention_pct": 4.6
+    },
+    {
+      "cohort_month": "2024-04",
+      "cohort_size": 194,
+      "cohort_index": 8,
+      "active_users": 11,
+      "retention_pct": 5.7
+    },
+    {
+      "cohort_month": "2024-04",
+      "cohort_size": 194,
+      "cohort_index": 9,
+      "active_users": 6,
+      "retention_pct": 3.1
+    },
+    {
+      "cohort_month": "2024-04",
+      "cohort_size": 194,
+      "cohort_index": 10,
+      "active_users": 5,
+      "retention_pct": 2.6
+    },
+    {
+      "cohort_month": "2024-04",
+      "cohort_size": 194,
+      "cohort_index": 11,
+      "active_users": 5,
+      "retention_pct": 2.6
+    },
+    {
+      "cohort_month": "2024-04",
+      "cohort_size": 194,
+      "cohort_index": 12,
+      "active_users": 5,
+      "retention_pct": 2.6
+    },
+    {
+      "cohort_month": "2024-05",
+      "cohort_size": 201,
+      "cohort_index": 0,
+      "active_users": 201,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2024-05",
+      "cohort_size": 201,
+      "cohort_index": 1,
+      "active_users": 24,
+      "retention_pct": 11.9
+    },
+    {
+      "cohort_month": "2024-05",
+      "cohort_size": 201,
+      "cohort_index": 2,
+      "active_users": 44,
+      "retention_pct": 21.9
+    },
+    {
+      "cohort_month": "2024-05",
+      "cohort_size": 201,
+      "cohort_index": 3,
+      "active_users": 43,
+      "retention_pct": 21.4
+    },
+    {
+      "cohort_month": "2024-05",
+      "cohort_size": 201,
+      "cohort_index": 4,
+      "active_users": 31,
+      "retention_pct": 15.4
+    },
+    {
+      "cohort_month": "2024-05",
+      "cohort_size": 201,
+      "cohort_index": 5,
+      "active_users": 23,
+      "retention_pct": 11.4
+    },
+    {
+      "cohort_month": "2024-05",
+      "cohort_size": 201,
+      "cohort_index": 6,
+      "active_users": 24,
+      "retention_pct": 11.9
+    },
+    {
+      "cohort_month": "2024-05",
+      "cohort_size": 201,
+      "cohort_index": 7,
+      "active_users": 20,
+      "retention_pct": 10.0
+    },
+    {
+      "cohort_month": "2024-05",
+      "cohort_size": 201,
+      "cohort_index": 8,
+      "active_users": 15,
+      "retention_pct": 7.5
+    },
+    {
+      "cohort_month": "2024-05",
+      "cohort_size": 201,
+      "cohort_index": 9,
+      "active_users": 12,
+      "retention_pct": 6.0
+    },
+    {
+      "cohort_month": "2024-05",
+      "cohort_size": 201,
+      "cohort_index": 10,
+      "active_users": 11,
+      "retention_pct": 5.5
+    },
+    {
+      "cohort_month": "2024-05",
+      "cohort_size": 201,
+      "cohort_index": 11,
+      "active_users": 7,
+      "retention_pct": 3.5
+    },
+    {
+      "cohort_month": "2024-05",
+      "cohort_size": 201,
+      "cohort_index": 12,
+      "active_users": 4,
+      "retention_pct": 2.0
+    },
+    {
+      "cohort_month": "2024-06",
+      "cohort_size": 206,
+      "cohort_index": 0,
+      "active_users": 206,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2024-06",
+      "cohort_size": 206,
+      "cohort_index": 1,
+      "active_users": 41,
+      "retention_pct": 19.9
+    },
+    {
+      "cohort_month": "2024-06",
+      "cohort_size": 206,
+      "cohort_index": 2,
+      "active_users": 48,
+      "retention_pct": 23.3
+    },
+    {
+      "cohort_month": "2024-06",
+      "cohort_size": 206,
+      "cohort_index": 3,
+      "active_users": 34,
+      "retention_pct": 16.5
+    },
+    {
+      "cohort_month": "2024-06",
+      "cohort_size": 206,
+      "cohort_index": 4,
+      "active_users": 27,
+      "retention_pct": 13.1
+    },
+    {
+      "cohort_month": "2024-06",
+      "cohort_size": 206,
+      "cohort_index": 5,
+      "active_users": 27,
+      "retention_pct": 13.1
+    },
+    {
+      "cohort_month": "2024-06",
+      "cohort_size": 206,
+      "cohort_index": 6,
+      "active_users": 13,
+      "retention_pct": 6.3
+    },
+    {
+      "cohort_month": "2024-06",
+      "cohort_size": 206,
+      "cohort_index": 7,
+      "active_users": 13,
+      "retention_pct": 6.3
+    },
+    {
+      "cohort_month": "2024-06",
+      "cohort_size": 206,
+      "cohort_index": 8,
+      "active_users": 12,
+      "retention_pct": 5.8
+    },
+    {
+      "cohort_month": "2024-06",
+      "cohort_size": 206,
+      "cohort_index": 9,
+      "active_users": 12,
+      "retention_pct": 5.8
+    },
+    {
+      "cohort_month": "2024-06",
+      "cohort_size": 206,
+      "cohort_index": 10,
+      "active_users": 8,
+      "retention_pct": 3.9
+    },
+    {
+      "cohort_month": "2024-06",
+      "cohort_size": 206,
+      "cohort_index": 11,
+      "active_users": 5,
+      "retention_pct": 2.4
+    },
+    {
+      "cohort_month": "2024-06",
+      "cohort_size": 206,
+      "cohort_index": 12,
+      "active_users": 4,
+      "retention_pct": 1.9
+    },
+    {
+      "cohort_month": "2024-07",
+      "cohort_size": 229,
+      "cohort_index": 0,
+      "active_users": 229,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2024-07",
+      "cohort_size": 229,
+      "cohort_index": 1,
+      "active_users": 53,
+      "retention_pct": 23.1
+    },
+    {
+      "cohort_month": "2024-07",
+      "cohort_size": 229,
+      "cohort_index": 2,
+      "active_users": 47,
+      "retention_pct": 20.5
+    },
+    {
+      "cohort_month": "2024-07",
+      "cohort_size": 229,
+      "cohort_index": 3,
+      "active_users": 39,
+      "retention_pct": 17.0
+    },
+    {
+      "cohort_month": "2024-07",
+      "cohort_size": 229,
+      "cohort_index": 4,
+      "active_users": 37,
+      "retention_pct": 16.2
+    },
+    {
+      "cohort_month": "2024-07",
+      "cohort_size": 229,
+      "cohort_index": 5,
+      "active_users": 29,
+      "retention_pct": 12.7
+    },
+    {
+      "cohort_month": "2024-07",
+      "cohort_size": 229,
+      "cohort_index": 6,
+      "active_users": 25,
+      "retention_pct": 10.9
+    },
+    {
+      "cohort_month": "2024-07",
+      "cohort_size": 229,
+      "cohort_index": 7,
+      "active_users": 19,
+      "retention_pct": 8.3
+    },
+    {
+      "cohort_month": "2024-07",
+      "cohort_size": 229,
+      "cohort_index": 8,
+      "active_users": 17,
+      "retention_pct": 7.4
+    },
+    {
+      "cohort_month": "2024-07",
+      "cohort_size": 229,
+      "cohort_index": 9,
+      "active_users": 12,
+      "retention_pct": 5.2
+    },
+    {
+      "cohort_month": "2024-07",
+      "cohort_size": 229,
+      "cohort_index": 10,
+      "active_users": 11,
+      "retention_pct": 4.8
+    },
+    {
+      "cohort_month": "2024-07",
+      "cohort_size": 229,
+      "cohort_index": 11,
+      "active_users": 6,
+      "retention_pct": 2.6
+    },
+    {
+      "cohort_month": "2024-07",
+      "cohort_size": 229,
+      "cohort_index": 12,
+      "active_users": 8,
+      "retention_pct": 3.5
+    },
+    {
+      "cohort_month": "2024-08",
+      "cohort_size": 203,
+      "cohort_index": 0,
+      "active_users": 203,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2024-08",
+      "cohort_size": 203,
+      "cohort_index": 1,
+      "active_users": 29,
+      "retention_pct": 14.3
+    },
+    {
+      "cohort_month": "2024-08",
+      "cohort_size": 203,
+      "cohort_index": 2,
+      "active_users": 50,
+      "retention_pct": 24.6
+    },
+    {
+      "cohort_month": "2024-08",
+      "cohort_size": 203,
+      "cohort_index": 3,
+      "active_users": 33,
+      "retention_pct": 16.3
+    },
+    {
+      "cohort_month": "2024-08",
+      "cohort_size": 203,
+      "cohort_index": 4,
+      "active_users": 31,
+      "retention_pct": 15.3
+    },
+    {
+      "cohort_month": "2024-08",
+      "cohort_size": 203,
+      "cohort_index": 5,
+      "active_users": 20,
+      "retention_pct": 9.9
+    },
+    {
+      "cohort_month": "2024-08",
+      "cohort_size": 203,
+      "cohort_index": 6,
+      "active_users": 18,
+      "retention_pct": 8.9
+    },
+    {
+      "cohort_month": "2024-08",
+      "cohort_size": 203,
+      "cohort_index": 7,
+      "active_users": 17,
+      "retention_pct": 8.4
+    },
+    {
+      "cohort_month": "2024-08",
+      "cohort_size": 203,
+      "cohort_index": 8,
+      "active_users": 12,
+      "retention_pct": 5.9
+    },
+    {
+      "cohort_month": "2024-08",
+      "cohort_size": 203,
+      "cohort_index": 9,
+      "active_users": 13,
+      "retention_pct": 6.4
+    },
+    {
+      "cohort_month": "2024-08",
+      "cohort_size": 203,
+      "cohort_index": 10,
+      "active_users": 4,
+      "retention_pct": 2.0
+    },
+    {
+      "cohort_month": "2024-08",
+      "cohort_size": 203,
+      "cohort_index": 11,
+      "active_users": 5,
+      "retention_pct": 2.5
+    },
+    {
+      "cohort_month": "2024-08",
+      "cohort_size": 203,
+      "cohort_index": 12,
+      "active_users": 7,
+      "retention_pct": 3.4
+    },
+    {
+      "cohort_month": "2024-09",
+      "cohort_size": 205,
+      "cohort_index": 0,
+      "active_users": 205,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2024-09",
+      "cohort_size": 205,
+      "cohort_index": 1,
+      "active_users": 50,
+      "retention_pct": 24.4
+    },
+    {
+      "cohort_month": "2024-09",
+      "cohort_size": 205,
+      "cohort_index": 2,
+      "active_users": 43,
+      "retention_pct": 21.0
+    },
+    {
+      "cohort_month": "2024-09",
+      "cohort_size": 205,
+      "cohort_index": 3,
+      "active_users": 43,
+      "retention_pct": 21.0
+    },
+    {
+      "cohort_month": "2024-09",
+      "cohort_size": 205,
+      "cohort_index": 4,
+      "active_users": 37,
+      "retention_pct": 18.0
+    },
+    {
+      "cohort_month": "2024-09",
+      "cohort_size": 205,
+      "cohort_index": 5,
+      "active_users": 28,
+      "retention_pct": 13.7
+    },
+    {
+      "cohort_month": "2024-09",
+      "cohort_size": 205,
+      "cohort_index": 6,
+      "active_users": 26,
+      "retention_pct": 12.7
+    },
+    {
+      "cohort_month": "2024-09",
+      "cohort_size": 205,
+      "cohort_index": 7,
+      "active_users": 19,
+      "retention_pct": 9.3
+    },
+    {
+      "cohort_month": "2024-09",
+      "cohort_size": 205,
+      "cohort_index": 8,
+      "active_users": 12,
+      "retention_pct": 5.9
+    },
+    {
+      "cohort_month": "2024-09",
+      "cohort_size": 205,
+      "cohort_index": 9,
+      "active_users": 13,
+      "retention_pct": 6.3
+    },
+    {
+      "cohort_month": "2024-09",
+      "cohort_size": 205,
+      "cohort_index": 10,
+      "active_users": 7,
+      "retention_pct": 3.4
+    },
+    {
+      "cohort_month": "2024-09",
+      "cohort_size": 205,
+      "cohort_index": 11,
+      "active_users": 9,
+      "retention_pct": 4.4
+    },
+    {
+      "cohort_month": "2024-09",
+      "cohort_size": 205,
+      "cohort_index": 12,
+      "active_users": 7,
+      "retention_pct": 3.4
+    },
+    {
+      "cohort_month": "2024-10",
+      "cohort_size": 210,
+      "cohort_index": 0,
+      "active_users": 210,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2024-10",
+      "cohort_size": 210,
+      "cohort_index": 1,
+      "active_users": 34,
+      "retention_pct": 16.2
+    },
+    {
+      "cohort_month": "2024-10",
+      "cohort_size": 210,
+      "cohort_index": 2,
+      "active_users": 39,
+      "retention_pct": 18.6
+    },
+    {
+      "cohort_month": "2024-10",
+      "cohort_size": 210,
+      "cohort_index": 3,
+      "active_users": 37,
+      "retention_pct": 17.6
+    },
+    {
+      "cohort_month": "2024-10",
+      "cohort_size": 210,
+      "cohort_index": 4,
+      "active_users": 24,
+      "retention_pct": 11.4
+    },
+    {
+      "cohort_month": "2024-10",
+      "cohort_size": 210,
+      "cohort_index": 5,
+      "active_users": 26,
+      "retention_pct": 12.4
+    },
+    {
+      "cohort_month": "2024-10",
+      "cohort_size": 210,
+      "cohort_index": 6,
+      "active_users": 17,
+      "retention_pct": 8.1
+    },
+    {
+      "cohort_month": "2024-10",
+      "cohort_size": 210,
+      "cohort_index": 7,
+      "active_users": 10,
+      "retention_pct": 4.8
+    },
+    {
+      "cohort_month": "2024-10",
+      "cohort_size": 210,
+      "cohort_index": 8,
+      "active_users": 13,
+      "retention_pct": 6.2
+    },
+    {
+      "cohort_month": "2024-10",
+      "cohort_size": 210,
+      "cohort_index": 9,
+      "active_users": 7,
+      "retention_pct": 3.3
+    },
+    {
+      "cohort_month": "2024-10",
+      "cohort_size": 210,
+      "cohort_index": 10,
+      "active_users": 9,
+      "retention_pct": 4.3
+    },
+    {
+      "cohort_month": "2024-10",
+      "cohort_size": 210,
+      "cohort_index": 11,
+      "active_users": 8,
+      "retention_pct": 3.8
+    },
+    {
+      "cohort_month": "2024-10",
+      "cohort_size": 210,
+      "cohort_index": 12,
+      "active_users": 3,
+      "retention_pct": 1.4
+    },
+    {
+      "cohort_month": "2024-11",
+      "cohort_size": 212,
+      "cohort_index": 0,
+      "active_users": 212,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2024-11",
+      "cohort_size": 212,
+      "cohort_index": 1,
+      "active_users": 50,
+      "retention_pct": 23.6
+    },
+    {
+      "cohort_month": "2024-11",
+      "cohort_size": 212,
+      "cohort_index": 2,
+      "active_users": 53,
+      "retention_pct": 25.0
+    },
+    {
+      "cohort_month": "2024-11",
+      "cohort_size": 212,
+      "cohort_index": 3,
+      "active_users": 35,
+      "retention_pct": 16.5
+    },
+    {
+      "cohort_month": "2024-11",
+      "cohort_size": 212,
+      "cohort_index": 4,
+      "active_users": 39,
+      "retention_pct": 18.4
+    },
+    {
+      "cohort_month": "2024-11",
+      "cohort_size": 212,
+      "cohort_index": 5,
+      "active_users": 20,
+      "retention_pct": 9.4
+    },
+    {
+      "cohort_month": "2024-11",
+      "cohort_size": 212,
+      "cohort_index": 6,
+      "active_users": 22,
+      "retention_pct": 10.4
+    },
+    {
+      "cohort_month": "2024-11",
+      "cohort_size": 212,
+      "cohort_index": 7,
+      "active_users": 16,
+      "retention_pct": 7.5
+    },
+    {
+      "cohort_month": "2024-11",
+      "cohort_size": 212,
+      "cohort_index": 8,
+      "active_users": 14,
+      "retention_pct": 6.6
+    },
+    {
+      "cohort_month": "2024-11",
+      "cohort_size": 212,
+      "cohort_index": 9,
+      "active_users": 8,
+      "retention_pct": 3.8
+    },
+    {
+      "cohort_month": "2024-11",
+      "cohort_size": 212,
+      "cohort_index": 10,
+      "active_users": 6,
+      "retention_pct": 2.8
+    },
+    {
+      "cohort_month": "2024-11",
+      "cohort_size": 212,
+      "cohort_index": 11,
+      "active_users": 8,
+      "retention_pct": 3.8
+    },
+    {
+      "cohort_month": "2024-11",
+      "cohort_size": 212,
+      "cohort_index": 12,
+      "active_users": 4,
+      "retention_pct": 1.9
+    },
+    {
+      "cohort_month": "2024-12",
+      "cohort_size": 196,
+      "cohort_index": 0,
+      "active_users": 196,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2024-12",
+      "cohort_size": 196,
+      "cohort_index": 1,
+      "active_users": 41,
+      "retention_pct": 20.9
+    },
+    {
+      "cohort_month": "2024-12",
+      "cohort_size": 196,
+      "cohort_index": 2,
+      "active_users": 44,
+      "retention_pct": 22.4
+    },
+    {
+      "cohort_month": "2024-12",
+      "cohort_size": 196,
+      "cohort_index": 3,
+      "active_users": 42,
+      "retention_pct": 21.4
+    },
+    {
+      "cohort_month": "2024-12",
+      "cohort_size": 196,
+      "cohort_index": 4,
+      "active_users": 30,
+      "retention_pct": 15.3
+    },
+    {
+      "cohort_month": "2024-12",
+      "cohort_size": 196,
+      "cohort_index": 5,
+      "active_users": 23,
+      "retention_pct": 11.7
+    },
+    {
+      "cohort_month": "2024-12",
+      "cohort_size": 196,
+      "cohort_index": 6,
+      "active_users": 15,
+      "retention_pct": 7.7
+    },
+    {
+      "cohort_month": "2024-12",
+      "cohort_size": 196,
+      "cohort_index": 7,
+      "active_users": 13,
+      "retention_pct": 6.6
+    },
+    {
+      "cohort_month": "2024-12",
+      "cohort_size": 196,
+      "cohort_index": 8,
+      "active_users": 13,
+      "retention_pct": 6.6
+    },
+    {
+      "cohort_month": "2024-12",
+      "cohort_size": 196,
+      "cohort_index": 9,
+      "active_users": 7,
+      "retention_pct": 3.6
+    },
+    {
+      "cohort_month": "2024-12",
+      "cohort_size": 196,
+      "cohort_index": 10,
+      "active_users": 8,
+      "retention_pct": 4.1
+    },
+    {
+      "cohort_month": "2024-12",
+      "cohort_size": 196,
+      "cohort_index": 11,
+      "active_users": 5,
+      "retention_pct": 2.6
+    },
+    {
+      "cohort_month": "2024-12",
+      "cohort_size": 196,
+      "cohort_index": 12,
+      "active_users": 2,
+      "retention_pct": 1.0
+    },
+    {
+      "cohort_month": "2025-01",
+      "cohort_size": 232,
+      "cohort_index": 0,
+      "active_users": 232,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2025-01",
+      "cohort_size": 232,
+      "cohort_index": 1,
+      "active_users": 40,
+      "retention_pct": 17.2
+    },
+    {
+      "cohort_month": "2025-01",
+      "cohort_size": 232,
+      "cohort_index": 2,
+      "active_users": 57,
+      "retention_pct": 24.6
+    },
+    {
+      "cohort_month": "2025-01",
+      "cohort_size": 232,
+      "cohort_index": 3,
+      "active_users": 45,
+      "retention_pct": 19.4
+    },
+    {
+      "cohort_month": "2025-01",
+      "cohort_size": 232,
+      "cohort_index": 4,
+      "active_users": 38,
+      "retention_pct": 16.4
+    },
+    {
+      "cohort_month": "2025-01",
+      "cohort_size": 232,
+      "cohort_index": 5,
+      "active_users": 29,
+      "retention_pct": 12.5
+    },
+    {
+      "cohort_month": "2025-01",
+      "cohort_size": 232,
+      "cohort_index": 6,
+      "active_users": 23,
+      "retention_pct": 9.9
+    },
+    {
+      "cohort_month": "2025-01",
+      "cohort_size": 232,
+      "cohort_index": 7,
+      "active_users": 18,
+      "retention_pct": 7.8
+    },
+    {
+      "cohort_month": "2025-01",
+      "cohort_size": 232,
+      "cohort_index": 8,
+      "active_users": 21,
+      "retention_pct": 9.1
+    },
+    {
+      "cohort_month": "2025-01",
+      "cohort_size": 232,
+      "cohort_index": 9,
+      "active_users": 16,
+      "retention_pct": 6.9
+    },
+    {
+      "cohort_month": "2025-01",
+      "cohort_size": 232,
+      "cohort_index": 10,
+      "active_users": 13,
+      "retention_pct": 5.6
+    },
+    {
+      "cohort_month": "2025-01",
+      "cohort_size": 232,
+      "cohort_index": 11,
+      "active_users": 8,
+      "retention_pct": 3.4
+    },
+    {
+      "cohort_month": "2025-02",
+      "cohort_size": 192,
+      "cohort_index": 0,
+      "active_users": 192,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2025-02",
+      "cohort_size": 192,
+      "cohort_index": 1,
+      "active_users": 39,
+      "retention_pct": 20.3
+    },
+    {
+      "cohort_month": "2025-02",
+      "cohort_size": 192,
+      "cohort_index": 2,
+      "active_users": 39,
+      "retention_pct": 20.3
+    },
+    {
+      "cohort_month": "2025-02",
+      "cohort_size": 192,
+      "cohort_index": 3,
+      "active_users": 23,
+      "retention_pct": 12.0
+    },
+    {
+      "cohort_month": "2025-02",
+      "cohort_size": 192,
+      "cohort_index": 4,
+      "active_users": 22,
+      "retention_pct": 11.5
+    },
+    {
+      "cohort_month": "2025-02",
+      "cohort_size": 192,
+      "cohort_index": 5,
+      "active_users": 19,
+      "retention_pct": 9.9
+    },
+    {
+      "cohort_month": "2025-02",
+      "cohort_size": 192,
+      "cohort_index": 6,
+      "active_users": 16,
+      "retention_pct": 8.3
+    },
+    {
+      "cohort_month": "2025-02",
+      "cohort_size": 192,
+      "cohort_index": 7,
+      "active_users": 13,
+      "retention_pct": 6.8
+    },
+    {
+      "cohort_month": "2025-02",
+      "cohort_size": 192,
+      "cohort_index": 8,
+      "active_users": 8,
+      "retention_pct": 4.2
+    },
+    {
+      "cohort_month": "2025-02",
+      "cohort_size": 192,
+      "cohort_index": 9,
+      "active_users": 8,
+      "retention_pct": 4.2
+    },
+    {
+      "cohort_month": "2025-02",
+      "cohort_size": 192,
+      "cohort_index": 10,
+      "active_users": 7,
+      "retention_pct": 3.6
+    },
+    {
+      "cohort_month": "2025-03",
+      "cohort_size": 146,
+      "cohort_index": 0,
+      "active_users": 146,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2025-03",
+      "cohort_size": 146,
+      "cohort_index": 1,
+      "active_users": 30,
+      "retention_pct": 20.5
+    },
+    {
+      "cohort_month": "2025-03",
+      "cohort_size": 146,
+      "cohort_index": 2,
+      "active_users": 29,
+      "retention_pct": 19.9
+    },
+    {
+      "cohort_month": "2025-03",
+      "cohort_size": 146,
+      "cohort_index": 3,
+      "active_users": 24,
+      "retention_pct": 16.4
+    },
+    {
+      "cohort_month": "2025-03",
+      "cohort_size": 146,
+      "cohort_index": 4,
+      "active_users": 23,
+      "retention_pct": 15.8
+    },
+    {
+      "cohort_month": "2025-03",
+      "cohort_size": 146,
+      "cohort_index": 5,
+      "active_users": 12,
+      "retention_pct": 8.2
+    },
+    {
+      "cohort_month": "2025-03",
+      "cohort_size": 146,
+      "cohort_index": 6,
+      "active_users": 16,
+      "retention_pct": 11.0
+    },
+    {
+      "cohort_month": "2025-03",
+      "cohort_size": 146,
+      "cohort_index": 7,
+      "active_users": 11,
+      "retention_pct": 7.5
+    },
+    {
+      "cohort_month": "2025-03",
+      "cohort_size": 146,
+      "cohort_index": 8,
+      "active_users": 9,
+      "retention_pct": 6.2
+    },
+    {
+      "cohort_month": "2025-03",
+      "cohort_size": 146,
+      "cohort_index": 9,
+      "active_users": 8,
+      "retention_pct": 5.5
+    },
+    {
+      "cohort_month": "2025-04",
+      "cohort_size": 170,
+      "cohort_index": 0,
+      "active_users": 170,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2025-04",
+      "cohort_size": 170,
+      "cohort_index": 1,
+      "active_users": 37,
+      "retention_pct": 21.8
+    },
+    {
+      "cohort_month": "2025-04",
+      "cohort_size": 170,
+      "cohort_index": 2,
+      "active_users": 45,
+      "retention_pct": 26.5
+    },
+    {
+      "cohort_month": "2025-04",
+      "cohort_size": 170,
+      "cohort_index": 3,
+      "active_users": 28,
+      "retention_pct": 16.5
+    },
+    {
+      "cohort_month": "2025-04",
+      "cohort_size": 170,
+      "cohort_index": 4,
+      "active_users": 14,
+      "retention_pct": 8.2
+    },
+    {
+      "cohort_month": "2025-04",
+      "cohort_size": 170,
+      "cohort_index": 5,
+      "active_users": 21,
+      "retention_pct": 12.4
+    },
+    {
+      "cohort_month": "2025-04",
+      "cohort_size": 170,
+      "cohort_index": 6,
+      "active_users": 12,
+      "retention_pct": 7.1
+    },
+    {
+      "cohort_month": "2025-04",
+      "cohort_size": 170,
+      "cohort_index": 7,
+      "active_users": 13,
+      "retention_pct": 7.6
+    },
+    {
+      "cohort_month": "2025-04",
+      "cohort_size": 170,
+      "cohort_index": 8,
+      "active_users": 6,
+      "retention_pct": 3.5
+    },
+    {
+      "cohort_month": "2025-05",
+      "cohort_size": 167,
+      "cohort_index": 0,
+      "active_users": 167,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2025-05",
+      "cohort_size": 167,
+      "cohort_index": 1,
+      "active_users": 32,
+      "retention_pct": 19.2
+    },
+    {
+      "cohort_month": "2025-05",
+      "cohort_size": 167,
+      "cohort_index": 2,
+      "active_users": 31,
+      "retention_pct": 18.6
+    },
+    {
+      "cohort_month": "2025-05",
+      "cohort_size": 167,
+      "cohort_index": 3,
+      "active_users": 30,
+      "retention_pct": 18.0
+    },
+    {
+      "cohort_month": "2025-05",
+      "cohort_size": 167,
+      "cohort_index": 4,
+      "active_users": 27,
+      "retention_pct": 16.2
+    },
+    {
+      "cohort_month": "2025-05",
+      "cohort_size": 167,
+      "cohort_index": 5,
+      "active_users": 15,
+      "retention_pct": 9.0
+    },
+    {
+      "cohort_month": "2025-05",
+      "cohort_size": 167,
+      "cohort_index": 6,
+      "active_users": 8,
+      "retention_pct": 4.8
+    },
+    {
+      "cohort_month": "2025-05",
+      "cohort_size": 167,
+      "cohort_index": 7,
+      "active_users": 10,
+      "retention_pct": 6.0
+    },
+    {
+      "cohort_month": "2025-06",
+      "cohort_size": 168,
+      "cohort_index": 0,
+      "active_users": 168,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2025-06",
+      "cohort_size": 168,
+      "cohort_index": 1,
+      "active_users": 38,
+      "retention_pct": 22.6
+    },
+    {
+      "cohort_month": "2025-06",
+      "cohort_size": 168,
+      "cohort_index": 2,
+      "active_users": 38,
+      "retention_pct": 22.6
+    },
+    {
+      "cohort_month": "2025-06",
+      "cohort_size": 168,
+      "cohort_index": 3,
+      "active_users": 34,
+      "retention_pct": 20.2
+    },
+    {
+      "cohort_month": "2025-06",
+      "cohort_size": 168,
+      "cohort_index": 4,
+      "active_users": 29,
+      "retention_pct": 17.3
+    },
+    {
+      "cohort_month": "2025-06",
+      "cohort_size": 168,
+      "cohort_index": 5,
+      "active_users": 22,
+      "retention_pct": 13.1
+    },
+    {
+      "cohort_month": "2025-06",
+      "cohort_size": 168,
+      "cohort_index": 6,
+      "active_users": 17,
+      "retention_pct": 10.1
+    },
+    {
+      "cohort_month": "2025-07",
+      "cohort_size": 136,
+      "cohort_index": 0,
+      "active_users": 136,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2025-07",
+      "cohort_size": 136,
+      "cohort_index": 1,
+      "active_users": 30,
+      "retention_pct": 22.1
+    },
+    {
+      "cohort_month": "2025-07",
+      "cohort_size": 136,
+      "cohort_index": 2,
+      "active_users": 32,
+      "retention_pct": 23.5
+    },
+    {
+      "cohort_month": "2025-07",
+      "cohort_size": 136,
+      "cohort_index": 3,
+      "active_users": 21,
+      "retention_pct": 15.4
+    },
+    {
+      "cohort_month": "2025-07",
+      "cohort_size": 136,
+      "cohort_index": 4,
+      "active_users": 20,
+      "retention_pct": 14.7
+    },
+    {
+      "cohort_month": "2025-07",
+      "cohort_size": 136,
+      "cohort_index": 5,
+      "active_users": 10,
+      "retention_pct": 7.4
+    },
+    {
+      "cohort_month": "2025-08",
+      "cohort_size": 125,
+      "cohort_index": 0,
+      "active_users": 125,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2025-08",
+      "cohort_size": 125,
+      "cohort_index": 1,
+      "active_users": 38,
+      "retention_pct": 30.4
+    },
+    {
+      "cohort_month": "2025-08",
+      "cohort_size": 125,
+      "cohort_index": 2,
+      "active_users": 34,
+      "retention_pct": 27.2
+    },
+    {
+      "cohort_month": "2025-08",
+      "cohort_size": 125,
+      "cohort_index": 3,
+      "active_users": 23,
+      "retention_pct": 18.4
+    },
+    {
+      "cohort_month": "2025-08",
+      "cohort_size": 125,
+      "cohort_index": 4,
+      "active_users": 19,
+      "retention_pct": 15.2
+    },
+    {
+      "cohort_month": "2025-09",
+      "cohort_size": 93,
+      "cohort_index": 0,
+      "active_users": 93,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2025-09",
+      "cohort_size": 93,
+      "cohort_index": 1,
+      "active_users": 27,
+      "retention_pct": 29.0
+    },
+    {
+      "cohort_month": "2025-09",
+      "cohort_size": 93,
+      "cohort_index": 2,
+      "active_users": 15,
+      "retention_pct": 16.1
+    },
+    {
+      "cohort_month": "2025-09",
+      "cohort_size": 93,
+      "cohort_index": 3,
+      "active_users": 20,
+      "retention_pct": 21.5
+    },
+    {
+      "cohort_month": "2025-10",
+      "cohort_size": 88,
+      "cohort_index": 0,
+      "active_users": 88,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2025-10",
+      "cohort_size": 88,
+      "cohort_index": 1,
+      "active_users": 9,
+      "retention_pct": 10.2
+    },
+    {
+      "cohort_month": "2025-10",
+      "cohort_size": 88,
+      "cohort_index": 2,
+      "active_users": 20,
+      "retention_pct": 22.7
+    },
+    {
+      "cohort_month": "2025-11",
+      "cohort_size": 46,
+      "cohort_index": 0,
+      "active_users": 46,
+      "retention_pct": 100.0
+    },
+    {
+      "cohort_month": "2025-11",
+      "cohort_size": 46,
+      "cohort_index": 1,
+      "active_users": 9,
+      "retention_pct": 19.6
+    },
+    {
+      "cohort_month": "2025-12",
+      "cohort_size": 20,
+      "cohort_index": 0,
+      "active_users": 20,
+      "retention_pct": 100.0
+    }
+  ],
+  "rfm_segments": [
+    {
+      "segment": "Champions",
+      "customer_count": 701,
+      "total_revenue": 540219.24,
+      "avg_spend": 770.64,
+      "avg_orders": 5.2,
+      "avg_recency_days": 124.0
+    },
+    {
+      "segment": "Loyal Customers",
+      "customer_count": 849,
+      "total_revenue": 301741.13,
+      "avg_spend": 355.41,
+      "avg_orders": 2.3,
+      "avg_recency_days": 263.0
+    },
+    {
+      "segment": "At Risk Customers",
+      "customer_count": 754,
+      "total_revenue": 278492.64,
+      "avg_spend": 369.35,
+      "avg_orders": 2.1,
+      "avg_recency_days": 532.0
+    },
+    {
+      "segment": "Lost / Hibernating",
+      "customer_count": 990,
+      "total_revenue": 61135.57,
+      "avg_spend": 61.75,
+      "avg_orders": 1.0,
+      "avg_recency_days": 497.0
+    },
+    {
+      "segment": "Promising New",
+      "customer_count": 444,
+      "total_revenue": 31214.92,
+      "avg_spend": 70.3,
+      "avg_orders": 1.0,
+      "avg_recency_days": 177.0
+    },
+    {
+      "segment": "High-Value Dormant",
+      "customer_count": 73,
+      "total_revenue": 10649.14,
+      "avg_spend": 145.88,
+      "avg_orders": 1.0,
+      "avg_recency_days": 559.0
+    },
+    {
+      "segment": "Potential Loyalists",
+      "customer_count": 31,
+      "total_revenue": 4510.89,
+      "avg_spend": 145.51,
+      "avg_orders": 1.0,
+      "avg_recency_days": 372.0
+    }
+  ],
+  "market_basket": [
+    {
+      "p1_name": "Hydrating Hyaluronic Acid Serum",
+      "p1_cat": "Health & Beauty",
+      "p2_name": "Vitamin C Brightening Facial Moisturizer",
+      "p2_cat": "Health & Beauty",
+      "co_orders": 100,
+      "support_pct": 1.16
+    },
+    {
+      "p1_name": "Ultra Ergonomic Wireless Mouse",
+      "p1_cat": "Electronics",
+      "p2_name": "4K Ultra-HD Monitor 27-inch",
+      "p2_cat": "Electronics",
+      "co_orders": 96,
+      "support_pct": 1.11
+    },
+    {
+      "p1_name": "Precision Barista Espresso Machine",
+      "p1_cat": "Home & Kitchen",
+      "p2_name": "Ceramic Burr Coffee Bean Grinder",
+      "p2_cat": "Home & Kitchen",
+      "co_orders": 94,
+      "support_pct": 1.09
+    },
+    {
+      "p1_name": "Eco-Friendly High Density Yoga Mat",
+      "p1_cat": "Sports & Outdoors",
+      "p2_name": "Adjustable Resistance Fitness Bands Set",
+      "p2_cat": "Sports & Outdoors",
+      "co_orders": 87,
+      "support_pct": 1.01
+    },
+    {
+      "p1_name": "Pro Noise-Cancelling Headphones",
+      "p1_cat": "Electronics",
+      "p2_name": "High-Speed MagSafe Wireless Charger",
+      "p2_cat": "Electronics",
+      "co_orders": 85,
+      "support_pct": 0.98
+    },
+    {
+      "p1_name": "Pro Noise-Cancelling Headphones",
+      "p1_cat": "Electronics",
+      "p2_name": "Portable Bluetooth Speaker Waterproof",
+      "p2_cat": "Electronics",
+      "co_orders": 78,
+      "support_pct": 0.9
+    },
+    {
+      "p1_name": "Hydrating Hyaluronic Acid Serum",
+      "p1_cat": "Health & Beauty",
+      "p2_name": "Mineral SPF 50 Broad Spectrum Sunscreen",
+      "p2_cat": "Health & Beauty",
+      "co_orders": 73,
+      "support_pct": 0.84
+    },
+    {
+      "p1_name": "Precision Barista Espresso Machine",
+      "p1_cat": "Home & Kitchen",
+      "p2_name": "Artisan Whole Bean Roast Coffee (2lb)",
+      "p2_cat": "Home & Kitchen",
+      "co_orders": 69,
+      "support_pct": 0.8
+    },
+    {
+      "p1_name": "Insulated Vacuum Water Bottle 32oz",
+      "p1_cat": "Home & Kitchen",
+      "p2_name": "Eco-Friendly High Density Yoga Mat",
+      "p2_cat": "Sports & Outdoors",
+      "co_orders": 68,
+      "support_pct": 0.79
+    },
+    {
+      "p1_name": "Mechanical Gaming Keyboard",
+      "p1_cat": "Electronics",
+      "p2_name": "4K Ultra-HD Monitor 27-inch",
+      "p2_cat": "Electronics",
+      "co_orders": 60,
+      "support_pct": 0.69
+    }
+  ],
+  "channels": [
+    {
+      "acquisition_channel": "Paid Search",
+      "customers": 1232,
+      "orders": 2692,
+      "revenue": 379264.34,
+      "aov": 140.89
+    },
+    {
+      "acquisition_channel": "Organic Search",
+      "customers": 925,
+      "orders": 2231,
+      "revenue": 323465.24,
+      "aov": 144.99
+    },
+    {
+      "acquisition_channel": "Social Media",
+      "customers": 842,
+      "orders": 1811,
+      "revenue": 259823.56,
+      "aov": 143.47
+    },
+    {
+      "acquisition_channel": "Referral",
+      "customers": 457,
+      "orders": 1051,
+      "revenue": 144833.14,
+      "aov": 137.81
+    },
+    {
+      "acquisition_channel": "Email Marketing",
+      "customers": 386,
+      "orders": 855,
+      "revenue": 120577.25,
+      "aov": 141.03
+    }
+  ]
+}
